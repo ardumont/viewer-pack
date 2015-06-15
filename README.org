@@ -1,0 +1,4 @@
+#+title: viewer-pack
+#+author: ardumont
+
+Different viewers setup (pdf, etc...)
