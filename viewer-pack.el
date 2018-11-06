@@ -4,7 +4,7 @@
 
 ;;; Code:
 
-(require 'doc-view)
+;; (require 'doc-view)
 (custom-set-variables '(doc-view-continuous t))
 
 (provide 'viewer-pack)
